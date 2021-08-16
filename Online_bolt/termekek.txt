@@ -1,0 +1,60 @@
+Sony Playstation 5;180000;játékkonzol;50
+Gigabyte Geforce RTX 2080Ti;280000;videókártya;20
+Sapphire RX 580 8GB GDDR5;90000;videókártya;10
+Xiaomi Redmi Note9 Pro;80000;mobiltelefon;120
+Nike Air Force;25000;férfi cipő;10
+Philips QC5115/15;7000;hajvágó/szakállvágó;100
+Carolina Herrera Good Girl;15500;női parfüm;500
+Lorelli Daisy Set;40000;babakocsi;30
+Hyundai HYD-415B;27000;fűkasza;15
+Xerox WorkCentre 6515V_DN;120000;fénymásoló;40
+Herlitz UltraLight;15000;iskolatáska;10
+Casio fx-991CE X;9600;számológép;17
+Kerra Karolina 90 cm + tray;80000;zuhanykabin;8
+Herlitz Boys Mix 2;2000;tolltartó;500
+KinderKraft MINKY;19500;babahinta;123
+Ryzen 5 3600X;80000;processzor;42
+Hankook Winter ICept;20400;gumiabroncs;47
+Samsung UE43TU7102;104000;OLED TV;75
+Xiaomi Mi Electric 1S;132000;roller;12
+Whirlpool W7;126000;mikrohullámú sütő;41
+Tefal EY 201815;39990;olajsütő;21
+MSI B450 TOMAHAWK MAX;37500;alaplap;23
+Continental ContiTwist;9390;motorgumi;58
+Makita HW101;21900;magasnyomású mosó;26
+Exide Premium 77Ah;25900;autó akkumulátor;13
+Rubik 3x3X3 kocka;2290;logikai játék;50
+Mattel gardrób;25990;Barbie baba;7
+Ford 6x15 (1064104);11560;acélfelni;27
+Tefal Elementary H055SC74;29900;edény, kukta, serpenyő;42
+Makita HR2470;35440;fúrókalapács;21
+Tchibo Cafissimo Pure;7440;kávéfőző;84
+Xiaomi Mi Band 5;11090;okosóra;100
+AULA DAWNGUARD;11990;billentyűzet;11
+HAJDU Aquastic AQ 120;51990;bojler;39
+Electrolux EERC70EB;28350;porszívó;31
+Revell Star Wars Millenium Falcon;3490;makett;2
+MSA C23;14690;akkusztikus gitár;9
+Vans Realm;6490;hátizsák;18
+Raidmax Drakon;49800;forgószék;17
+Jack Daniel's Whiskey 0,7L;6290;whiskey;13
+Toffifee 125g;730;desszert;4
+Smartplay Baby Shark;4290;plüss figura;3
+Apple iPad 8 2020 10.2 32GB;132890;Tablet PC;14
+VIGOR B32;39900;kerékpár;12
+Best Dream Siglo;105000;matrac;6
+Panasonic KX-TG1611;6450;telefonkészülék;59
+Samsung S22F350FHU;29990;monitor;35
+Apple iPhone 12 64GB;288000;mobiltelefon;166
+Reisenthel ALLROUNDER S;8900;női táska;2
+STIHL MS 170;67900;láncfűrész;7
+Vivamax Universal GYVM23;17900;masszírozó;11
+Lorelli Marcel;11990;etetőszék;9
+ASUS ZenBook 14;239900;notebook;18
+CD PROJEKT Cyberpunk 2077 (Xbox One);18990;játékprogram;24
+MOFÉM Mambo-5;9200;csaptelep;40
+IMC Toys Undi Guszti;9490;társasjáték;29
+Oral-B PRO 750;10990;elektromos fogkefe;35
+Makita GA5030R;15800;sarokcsiszoló;32
+Tetra Discovery Line AquaArt;35995;akvárium;5
+Robust Proton;29990;szobakerékpár;5
